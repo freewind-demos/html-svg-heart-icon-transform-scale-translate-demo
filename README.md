@@ -1,7 +1,7 @@
-Html Svg Circle Demo
-====================
+Html Svg `<g>` Demo
+===================
 
-Show a circle with `svg` and `circle` tags.
+`<g>` used to group svg tags to set style attributes to them in one place.
 
 ```
 open index.html

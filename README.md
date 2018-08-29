@@ -1,8 +1,10 @@
-Html Hello World Demo
-=====================
+Html Svg Circle Demo
+====================
+
+Show a circle with `svg` and `circle` tags.
 
 ```
 open index.html
 ```
 
-You will see `Hello, World!` in page.
+![demo](./images/demo.jpg)

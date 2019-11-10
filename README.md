@@ -1,10 +1,11 @@
-Html Svg `<g>` Demo
-===================
+Html Svg Heart Icon with Transform Scale and Translate Demo
+============================================================
 
-`<g>` used to group svg tags to set style attributes to them in one place.
+```
+transform: rotate(225deg) scale(0.1) translateX(1700px) translateY(-200px);
+transform-origin: 150px 121px;
+```
 
 ```
 open index.html
 ```
-
-![demo](./images/demo.jpg)
